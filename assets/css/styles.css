@@ -169,12 +169,23 @@ img {
   }             
 }
 
-.nav__list{
+.nav__list {
   display: flex;
   justify-content: space-between;
 
 }
 
+.nav__link {
+  color: var(--white-color);
+  font-family: var(--second-font);
+  font-size: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  row-gap: .25rem;
+  transition: color .3s;
+
+}
 
 
 /* Change background header */
