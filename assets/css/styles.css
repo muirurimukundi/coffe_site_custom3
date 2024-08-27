@@ -145,6 +145,9 @@ img {
   color: var(--white-color);
   display: flex;
   align-items: center; 
+  column-gap: .5rem;
+  font-size: var(--h3-font-size);
+  font-family: var(--second-font);
 }
 /* Navigation for mobile devices */
 
