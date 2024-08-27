@@ -106,6 +106,16 @@ img {
 
 /*=============== HEADER & NAV ===============*/
 
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: var(--first-color);
+  z-index: var(--z-fixed);
+  transition: background .4s, box-shadow .4s; 
+  
+}
 
 /* Navigation for mobile devices */
 
