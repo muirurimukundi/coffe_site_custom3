@@ -197,6 +197,10 @@ img {
               
 } 
 
+.nav__link:hover {
+  color: var(--second-color);
+}
+
 /* Change background header */
 
 
