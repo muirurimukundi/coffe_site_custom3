@@ -253,6 +253,16 @@ img {
   bottom: -1.25rem;
 }
 
+
+.home__description {
+  margin-bottom: 2rem; 
+
+}
+
+.home__img {
+  width: 320px;
+  justify-self: center;  
+}
 /*=============== BUTTON ===============*/
 
 
