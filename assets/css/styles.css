@@ -187,6 +187,15 @@ img {
 
 }
 
+.nav__link i {
+  background: linear-gradient(180deg,
+              hsl(39, 62%, 75%) 0%, 
+              hsl(39, 62%, 45%)100%);
+  color: transparent;
+  -webkit-background-clipp: text;
+  font-size: 1.5rem; 
+              
+} 
 
 /* Change background header */
 
