@@ -315,6 +315,11 @@ img {
   transition: box-shadow .3s, transform .3s;
 }
 
+.products__button:hover {
+  box-shadow: 0 8px 24px hsla(12, 32%, 8%, .6);
+  transform: translateY(.35rem);
+
+}
 
 /*=============== ABOUT ===============*/
 
