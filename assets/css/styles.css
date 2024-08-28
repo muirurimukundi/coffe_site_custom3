@@ -278,6 +278,12 @@ img {
   transition: box-shadow .3s;
 }
 
+.button i {
+  font-size: 1.5rem;
+  transition: transform .3s;
+  
+
+}
 
 /*=============== PRODUCTS ===============*/
 
