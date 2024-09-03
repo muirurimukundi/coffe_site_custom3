@@ -422,6 +422,12 @@ img {
    
 }
 
+.steps__img {
+  width: 120px;
+  filter: drop-shadow(0, 4px 16px hsl(12, 32%,, 16%));
+  transition: transform .3s;
+}
+
 /*=============== TESTIMONIAL ===============*/
 
 
