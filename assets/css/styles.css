@@ -409,6 +409,19 @@ img {
   row-gap: 4rem;
 }
 
+.steps__circle {
+  width: 150px;
+  height: 150px;
+  background-color: var(--first-color-light);
+  border-radius: 50%;
+  box-shadow: 0 8px 32px hsla(12, 32%, 8%, .3);
+  display: flex;
+  align-items: center;
+  position: relative;
+  margin-bottom: 1.5rem; 
+   
+}
+
 /*=============== TESTIMONIAL ===============*/
 
 
