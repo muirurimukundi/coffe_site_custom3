@@ -385,6 +385,25 @@ img {
 /*=============== STEPS ===============*/
 
 
+.steps {
+  background-color: var(--white-color);
+}
+
+.steps__bg{
+  background-color: var(--first-color);
+  border-radius: var(--border-section);
+}
+
+.steps_container {
+  padding-top: 2rem;
+}
+
+.steps .section__title,
+.steps__description {
+  color: var(--white-color);
+}
+
+
 /*=============== TESTIMONIAL ===============*/
 
 
