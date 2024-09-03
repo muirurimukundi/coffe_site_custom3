@@ -428,6 +428,11 @@ img {
   transition: transform .3s;
 }
 
+.steps__img:hover {
+  transform: translateY(-.35rem);
+}
+
+
 /*=============== TESTIMONIAL ===============*/
 
 
